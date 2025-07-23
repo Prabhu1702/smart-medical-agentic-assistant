@@ -1,3 +1,7 @@
+
+
+
+
 # 🧠 Smart Medical Agentic Assistant
 
 An AI-powered multi-agent medical assistant capable of performing **symptom diagnosis**, **treatment planning**, and **hospital recommendations** using **AutoGen**, **ChromaDB**, **MemGPT**, and **Streamlit**.
@@ -51,3 +55,7 @@ source .venv/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
+```
+
+# 🧠 Smart Medical Agentic Assistant( DEMO)
+https://github.com/user-attachments/assets/720e8bc9-2eb1-41cb-9366-aaa87526e2c9
