@@ -14,7 +14,6 @@ An AI-powered multi-agent medical assistant capable of performing **symptom diag
 
 - 🔬 Symptom checker using agentic reasoning
 - 💊 Treatment recommendation based on context-aware multi-agent planning
-- 🏥 Nearest hospital suggestion using Google Maps API
 - 🧠 Long-term memory with ChromaDB
 - 🧠 Context summarization and recall using MemGPT
 - 📄 Generates a downloadable PDF medical report via WeasyPrint
@@ -30,7 +29,7 @@ An AI-powered multi-agent medical assistant capable of performing **symptom diag
 - [MemGPT](https://github.com/cpacker/MemGPT)
 - [Streamlit](https://streamlit.io/)
 - [WeasyPrint](https://weasyprint.org/) (for PDF generation)
-- Google Maps API (for hospital location)
+
 
 ---
 
