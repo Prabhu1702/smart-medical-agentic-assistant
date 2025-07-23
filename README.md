@@ -38,7 +38,11 @@ git clone https://github.com/Prabhu1702/smart-medical-agentic-assistant.git
 cd smart-medical-agentic-assistant
 
 # 2. Create virtual environment
-python -m venv .venv
+python -m venv .venv    
+
+https://github.com/user-attachments/assets/bb1c1ea3-ac5b-4801-913a-34c930e66f3a
+
+
 # Activate it:
 # On Windows:
 .venv\Scripts\activate
